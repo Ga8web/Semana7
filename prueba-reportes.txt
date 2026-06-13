@@ -1,0 +1,1 @@
+Me aparece el id 1. Después, me aparece el tipo, infraestructura y descripción: daño en alumbrado público.
